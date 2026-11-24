@@ -1,0 +1,152 @@
+{
+  "meta": {
+    "tagline": "Transporte de carga y logística",
+    "description": "Servicios de transporte de carga, distribución y logística con cobertura nacional. Puntualidad, seguridad y atención cercana."
+  },
+  "nav": {
+    "home": "Inicio",
+    "about": "Nosotros",
+    "whyUs": "Por qué elegirnos",
+    "services": "Servicios",
+    "contact": "Contacto",
+    "openMenu": "Abrir menú",
+    "closeMenu": "Cerrar menú",
+    "mainNavigation": "Navegación principal",
+    "language": "Cambiar idioma a inglés"
+  },
+  "hero": {
+    "eyebrow": "Transporte y logística",
+    "title": "Tu carga, siempre a tiempo.",
+    "subtitle": "Conectamos tu negocio con todo el país a través de un servicio seguro, puntual y transparente.",
+    "primaryCta": "Solicitar cotización",
+    "secondaryCta": "Conoce nuestros servicios"
+  },
+  "about": {
+    "title": "Sobre nosotros",
+    "intro": "Somos una empresa de transporte comprometida con mover lo que más importa para tu negocio.",
+    "paragraphs": [
+      "Acompañamos a empresas de distintos sectores con soluciones de transporte terrestre pensadas para cuidar su carga y cumplir sus tiempos de entrega.",
+      "Nuestro equipo combina experiencia en carretera, planeación de rutas y comunicación permanente para que siempre sepas dónde está tu mercancía."
+    ],
+    "pillars": [
+      {
+        "title": "Misión",
+        "text": "Transportar y distribuir carga con seguridad y puntualidad, generando confianza en cada entrega."
+      },
+      {
+        "title": "Visión",
+        "text": "Ser un aliado logístico de referencia por la calidad de nuestro servicio y la solidez de nuestras relaciones."
+      },
+      {
+        "title": "Valores",
+        "text": "Responsabilidad, transparencia, compromiso con el cliente y respeto por las personas y el entorno."
+      }
+    ]
+  },
+  "whyUs": {
+    "title": "Por qué elegirnos",
+    "subtitle": "Lo que nos diferencia en cada kilómetro.",
+    "items": [
+      {
+        "icon": "clock",
+        "title": "Puntualidad",
+        "text": "Planeamos cada ruta para cumplir los tiempos acordados con tu operación."
+      },
+      {
+        "icon": "shield",
+        "title": "Carga protegida",
+        "text": "Procesos y controles pensados para que tu mercancía llegue en perfecto estado."
+      },
+      {
+        "icon": "route",
+        "title": "Cobertura",
+        "text": "Rutas que conectan las principales ciudades y corredores del país."
+      },
+      {
+        "icon": "headset",
+        "title": "Atención cercana",
+        "text": "Un equipo disponible para resolver tus dudas y mantenerte informado."
+      },
+      {
+        "icon": "truck",
+        "title": "Flota confiable",
+        "text": "Vehículos en buen estado y mantenimiento preventivo constante."
+      },
+      {
+        "icon": "map",
+        "title": "Transparencia",
+        "text": "Información clara sobre tu servicio, desde la cotización hasta la entrega."
+      }
+    ]
+  },
+  "services": {
+    "title": "Servicios",
+    "subtitle": "Soluciones de transporte para cada necesidad.",
+    "items": [
+      {
+        "icon": "truck",
+        "title": "Transporte de carga terrestre",
+        "text": "Traslado de mercancía entre ciudades con rutas planeadas y seguimiento de principio a fin."
+      },
+      {
+        "icon": "map",
+        "title": "Distribución urbana",
+        "text": "Entregas dentro de la ciudad con horarios definidos para tus clientes."
+      },
+      {
+        "icon": "package",
+        "title": "Paquetería y mensajería",
+        "text": "Envío de paquetes y documentos con entrega confiable en destino."
+      },
+      {
+        "icon": "warehouse",
+        "title": "Almacenamiento y logística",
+        "text": "Bodegaje y apoyo logístico para organizar y despachar tu mercancía."
+      },
+      {
+        "icon": "route",
+        "title": "Rutas dedicadas",
+        "text": "Servicio recurrente en trayectos fijos, ajustado a la operación de tu empresa."
+      },
+      {
+        "icon": "headset",
+        "title": "Atención y seguimiento",
+        "text": "Acompañamiento durante todo el servicio para que estés siempre informado."
+      }
+    ]
+  },
+  "banner": {
+    "title": "Conectamos ciudades, entregamos confianza.",
+    "subtitle": "Cuéntanos tu ruta y diseñamos el servicio que tu operación necesita."
+  },
+  "contact": {
+    "title": "Contacto",
+    "subtitle": "Cuéntanos qué necesitas y te responderemos lo antes posible.",
+    "info": {
+      "phone": "Teléfono",
+      "email": "Correo",
+      "address": "Ubicación",
+      "hours": "Horario",
+      "hoursValue": "Lunes a viernes, 8:00 a. m. a 6:00 p. m."
+    },
+    "form": {
+      "name": "Nombre",
+      "email": "Correo electrónico",
+      "phone": "Teléfono (opcional)",
+      "message": "Mensaje",
+      "submit": "Enviar mensaje",
+      "sending": "Enviando…",
+      "success": "¡Gracias! Recibimos tu mensaje y te contactaremos pronto.",
+      "privacy": "Usaremos tus datos únicamente para responder a tu solicitud.",
+      "errors": {
+        "generic": "No pudimos enviar tu mensaje. Inténtalo de nuevo en unos minutos.",
+        "validation": "Revisa los campos del formulario e inténtalo de nuevo.",
+        "rateLimited": "Has enviado varios mensajes seguidos. Inténtalo de nuevo más tarde."
+      }
+    }
+  },
+  "footer": {
+    "follow": "Síguenos",
+    "rights": "Todos los derechos reservados."
+  }
+}
